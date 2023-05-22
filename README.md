@@ -39,4 +39,4 @@ Once your screen is like that, press the "Apply patch" button and if it says "Pa
 If it says Checksum Validation Faliure or something like that, press this off and try again. If another error pops up, I dont know what to do about it.
 ![image](https://github.com/cmpoo/ptmodguide/assets/134251818/2a34777c-00cb-4721-b818-5bcccfabf200)
 
-If you have any questions, just submit on the https://github.com/cmpoo/ptmodguide page.
+If you have any questions, just submit on the https://github.com/cmpoo/ptmodguide/issues page.
